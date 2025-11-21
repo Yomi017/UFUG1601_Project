@@ -1,0 +1,23 @@
+Prompt 1: Country Analysis
+Goal: Analyze the social well-being of a specific country based on its indicators.
+Prompt Template:
+Analyze the social well-being of [Country Name] based on the following data:
+Happiness Score: [Score]
+GDP per Capita: [GDP]
+Life Expectancy: [Life Expectancy]
+Education Expenditure: [Edu Expenditure]
+Provide 3 policy recommendations to maintain or improve this status. Focus on the relationship between education spending and happiness.
+
+Prompt 2: Cluster Analysis
+Goal: Interpret the characteristics of a specific cluster of countries.
+Prompt Template:
+I have performed K-Means clustering on global happiness data. One cluster has the following average characteristics:
+Average Happiness Score: [Avg Score]
+Average GDP per Capita: [Avg GDP]
+Describe the likely socio-economic profile of countries in this cluster. What are the common challenges they might face?
+
+Prompt 3: Global Trend Synthesis
+Goal: Synthesize findings from the correlation analysis.
+Prompt Template:
+Based on a correlation analysis of global data, I found a strong positive correlation between GDP per Capita and Happiness Score (0.78), but a weaker correlation between Education Expenditure and Happiness (0.35). 
+Explain why economic factors might have a more direct observed impact on happiness scores than education spending in the short term, while considering the long-term benefits of education.
